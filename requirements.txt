@@ -1,1 +1,1 @@
-elitea-sdk[all]==0.7.13
+elitea-sdk[all]==0.7.14
